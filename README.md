@@ -1,5 +1,7 @@
 # RobotPuppy
-Timothy and Therese's AI Final Project, Fall 2016.
+Timothy and Therese's AI Final Project, Fall 2016.<br/><br/>
+
+Robot puppy plays fetch with user. <br/><br/>
 
 * Robot Hardware <br/>
       Raspberry Pi 2 B+ <br/>
